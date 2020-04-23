@@ -47,7 +47,7 @@
 2)Create zip file on windows using Windows PoweShell<br>
 	
 	i)Compress-Archive C:\xampp\htdocs\pdf C:\xampp\htdocs\pdf.zip						
-									Or
+						Or
 	ii)Compress-Archive pdf pdf.zip //if you are in same folder where you want to compress file
 
 3)Unzip file using Windows PoweShell<br>
