@@ -44,14 +44,14 @@
 		"https://btesimages.s3.amazonaws.com/PdfLabelFiles/paytm_packing_slip_order_559338426.pdf"
 	];
 
-2)Create zip file on windows using Windows PoweShell
+2)Create zip file on windows using Windows PoweShell<br>
 	i)Compress-Archive C:\xampp\htdocs\pdf C:\xampp\htdocs\pdf.zip
 
 						Or
 
 	ii)Compress-Archive pdf pdf.zip //if you are in same folder where you want to compress file
 
-3)Unzip file using Windows PoweShell
+3)Unzip file using Windows PoweShell<br>
 	i)Expand-Archive -Force Desktop\vidya_shevale.zip C:\xampp //give the path where you have stored the folder and where you want to expand the folder
 
 						Or
